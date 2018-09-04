@@ -1,5 +1,5 @@
 # Lumen-JWT-integration
-JWT authentication for Lumen 5.6
+JWT authentication for Lumen 5.6 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ### php artisan key:generate
 APP_KEY=base64:z3g0MdeUkI7M70p4RxeafrV0uBM5K4NnskEpKRhnVvg=
