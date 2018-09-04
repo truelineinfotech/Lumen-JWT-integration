@@ -24,3 +24,12 @@ JWT_SECRET=coB_mtdXwvi9RxSMzbIey8GVVQLv9qQrBUqmc1qj9Bs
 ### use postman for testing
 	http://localhost:8000/auth/login
 	http://localhost:8000/users
+
+### screenshots
+![Lumen-JWT-integration-screenshot-1](https://github.com/truelineinfotech/Lumen-JWT-integration/blob/master/screenshots/lumen-jwt-1.PNG)
+
+![Lumen-JWT-integration-screenshot-2](https://github.com/truelineinfotech/Lumen-JWT-integration/blob/master/screenshots/lumen-jwt-2.PNG)
+
+![Lumen-JWT-integration-screenshot-3](https://github.com/truelineinfotech/Lumen-JWT-integration/blob/master/screenshots/lumen-jwt-3.PNG)
+
+![Lumen-JWT-integration-screenshot-4](https://github.com/truelineinfotech/Lumen-JWT-integration/blob/master/screenshots/lumen-jwt-4.PNG)
