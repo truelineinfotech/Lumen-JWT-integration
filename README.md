@@ -24,6 +24,8 @@ JWT_SECRET=coB_mtdXwvi9RxSMzbIey8GVVQLv9qQrBUqmc1qj9Bs
 ### use postman for testing
 	http://localhost:8000/auth/login
 	http://localhost:8000/users
+	
+### default password is 12345
 
 ### screenshots
 
